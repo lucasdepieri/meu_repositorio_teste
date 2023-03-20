@@ -1,2 +1,1 @@
-# meu_repositorio_teste
-repositorio teste
+# altereri as redmi
